@@ -69,6 +69,20 @@ This project performs end-to-end **Exploratory Data Analysis (EDA)** on a cancer
 
 ---
 
+## 📊 Dashboard
+
+A Power BI dashboard was built to visually explore the dataset.
+
+📄 [View Dashboard PDF](dashboard/cancer_patient_dashboard.pdf)
+
+**Dashboard covers:**
+- Overall survival rate and death rate
+- Survival breakdown by cancer stage
+- Top 5 countries by patient count
+- Filters by gender, age group and cancer stage 
+
+---
+
 ## 🛠️ Tech Stack
 
 | Tool | Purpose |
