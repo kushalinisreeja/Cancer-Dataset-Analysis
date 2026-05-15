@@ -41,7 +41,6 @@ This project performs end-to-end **Exploratory Data Analysis (EDA)** on a cancer
 |---|---|
 | `treatment_duration` | Days from diagnosis to end of treatment |
 | `age_group` | Child / Adult / Senior-Citizen / Elder |
-| `stage_group` | Early (Stage I–II) vs. Late (Stage III–IV) |
 | `bmi_category` | Underweight / Normal / Overweight / Obese |
 | `treatment_category` | Single vs. Combination therapy |
 | `comorbidity_level` | None / 1 Condition / 2+ Conditions |
